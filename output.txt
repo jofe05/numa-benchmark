@@ -1,0 +1,75 @@
+num cpus: 64
+numa available: 0
+numa node 0 1111111100000000000000000000000000000000000000000000000000000000 - 15.9929 GiB
+numa node 1 0000000011111111000000000000000000000000000000000000000000000000 - 16 GiB
+numa node 2 0000000000000000111111110000000000000000000000000000000000000000 - 16 GiB
+numa node 3 0000000000000000000000001111111100000000000000000000000000000000 - 16 GiB
+numa node 4 0000000000000000000000000000000011111111000000000000000000000000 - 16 GiB
+numa node 5 0000000000000000000000000000000000000000111111110000000000000000 - 16 GiB
+numa node 6 0000000000000000000000000000000000000000000000001111111100000000 - 16 GiB
+numa node 7 0000000000000000000000000000000000000000000000000000000011111111 - 16 GiB
+
+Tid 0 from CPU 0 -> bank 0 : BW 4494.94 MB/s
+Tid 1 from CPU 1 -> bank 0 : BW 4553.61 MB/s
+Tid 2 from CPU 2 -> bank 0 : BW 4550.43 MB/s
+Tid 3 from CPU 3 -> bank 0 : BW 4581 MB/s
+Tid 4 from CPU 4 -> bank 0 : BW 4599.3 MB/s
+Tid 5 from CPU 5 -> bank 0 : BW 4611.25 MB/s
+Tid 6 from CPU 6 -> bank 0 : BW 4605.1 MB/s
+Tid 7 from CPU 7 -> bank 0 : BW 4609.83 MB/s
+Tid 8 from CPU 8 -> bank 0 : BW 4284.75 MB/s
+Tid 9 from CPU 9 -> bank 0 : BW 4286.14 MB/s
+Tid 10 from CPU 10 -> bank 0 : BW 4284.62 MB/s
+Tid 11 from CPU 11 -> bank 0 : BW 4285.77 MB/s
+Tid 12 from CPU 12 -> bank 0 : BW 4280.52 MB/s
+Tid 13 from CPU 13 -> bank 0 : BW 4285.14 MB/s
+Tid 14 from CPU 14 -> bank 0 : BW 4280.25 MB/s
+Tid 15 from CPU 15 -> bank 0 : BW 4271.26 MB/s
+Tid 16 from CPU 16 -> bank 0 : BW 3994.99 MB/s
+Tid 17 from CPU 17 -> bank 0 : BW 3998.69 MB/s
+Tid 18 from CPU 18 -> bank 0 : BW 3995.76 MB/s
+Tid 19 from CPU 19 -> bank 0 : BW 3996.7 MB/s
+Tid 20 from CPU 20 -> bank 0 : BW 3996.49 MB/s
+Tid 21 from CPU 21 -> bank 0 : BW 3995.86 MB/s
+Tid 22 from CPU 22 -> bank 0 : BW 3996.14 MB/s
+Tid 23 from CPU 23 -> bank 0 : BW 3996.19 MB/s
+Tid 24 from CPU 24 -> bank 0 : BW 3305.49 MB/s
+Tid 25 from CPU 25 -> bank 0 : BW 3304.36 MB/s
+Tid 26 from CPU 26 -> bank 0 : BW 3303.37 MB/s
+Tid 27 from CPU 27 -> bank 0 : BW 3301.23 MB/s
+Tid 28 from CPU 28 -> bank 0 : BW 3304.08 MB/s
+Tid 29 from CPU 29 -> bank 0 : BW 3301.87 MB/s
+Tid 30 from CPU 30 -> bank 0 : BW 3302.67 MB/s
+Tid 31 from CPU 31 -> bank 0 : BW 3304.22 MB/s
+Tid 32 from CPU 32 -> bank 0 : BW 3981.53 MB/s
+Tid 33 from CPU 33 -> bank 0 : BW 3980.64 MB/s
+Tid 34 from CPU 34 -> bank 0 : BW 3979.14 MB/s
+Tid 35 from CPU 35 -> bank 0 : BW 3971.65 MB/s
+Tid 36 from CPU 36 -> bank 0 : BW 3975.21 MB/s
+Tid 37 from CPU 37 -> bank 0 : BW 3974.8 MB/s
+Tid 38 from CPU 38 -> bank 0 : BW 3973.76 MB/s
+Tid 39 from CPU 39 -> bank 0 : BW 3975.22 MB/s
+Tid 40 from CPU 40 -> bank 0 : BW 3237.16 MB/s
+Tid 41 from CPU 41 -> bank 0 : BW 3236.75 MB/s
+Tid 42 from CPU 42 -> bank 0 : BW 3236.5 MB/s
+Tid 43 from CPU 43 -> bank 0 : BW 3234.66 MB/s
+Tid 44 from CPU 44 -> bank 0 : BW 3236.25 MB/s
+Tid 45 from CPU 45 -> bank 0 : BW 3236.92 MB/s
+Tid 46 from CPU 46 -> bank 0 : BW 3232.01 MB/s
+Tid 47 from CPU 47 -> bank 0 : BW 3234.49 MB/s
+Tid 48 from CPU 48 -> bank 0 : BW 4039.44 MB/s
+Tid 49 from CPU 49 -> bank 0 : BW 4040.4 MB/s
+Tid 50 from CPU 50 -> bank 0 : BW 4041.44 MB/s
+Tid 51 from CPU 51 -> bank 0 : BW 4044.71 MB/s
+Tid 52 from CPU 52 -> bank 0 : BW 4042.7 MB/s
+Tid 53 from CPU 53 -> bank 0 : BW 4044.14 MB/s
+Tid 54 from CPU 54 -> bank 0 : BW 4044.16 MB/s
+Tid 55 from CPU 55 -> bank 0 : BW 4042.4 MB/s
+Tid 56 from CPU 56 -> bank 0 : BW 3552.14 MB/s
+Tid 57 from CPU 57 -> bank 0 : BW 3555.92 MB/s
+Tid 58 from CPU 58 -> bank 0 : BW 3550.03 MB/s
+Tid 59 from CPU 59 -> bank 0 : BW 3551.55 MB/s
+Tid 60 from CPU 60 -> bank 0 : BW 3549.09 MB/s
+Tid 61 from CPU 61 -> bank 0 : BW 3552.74 MB/s
+Tid 62 from CPU 62 -> bank 0 : BW 3551.82 MB/s
+Tid 63 from CPU 63 -> bank 0 : BW 3552.47 MB/s
